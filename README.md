@@ -10,7 +10,7 @@ $ python Shortlink_v1.py
 ```
 
 ```json
-data = {
+Apikey = {
  "Link_dow":"https://cararegistrasi.com/yNTvX"
 }
 ```
